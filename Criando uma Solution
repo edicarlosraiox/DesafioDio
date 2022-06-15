@@ -1,0 +1,6 @@
+// Abra o cmd em uma pasta no disco c
+// digite: dotnet new sln -- name exemplo e da enter
+// dotne new console --name exemplo e da enter
+// criar oseguinte comando para adicionar o projeto à solution:
+// dotnet sln add exemplo/exemplo.csproj
+
